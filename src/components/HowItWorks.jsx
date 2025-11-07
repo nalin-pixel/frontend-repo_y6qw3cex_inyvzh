@@ -9,12 +9,12 @@ const steps = [
   {
     icon: Repeat2,
     title: 'Trade predictions',
-    desc: 'Buy or sell Yes/No shares on live markets for matches, overs, and player milestones.'
+    desc: 'Buy or sell Yes/No shares on live markets for match winner, powerplay runs, wickets and more.'
   },
   {
     icon: ShieldCheck,
     title: 'Transparent settlement',
-    desc: 'Outcomes are verified with trusted data sources and smart audit trails.'
+    desc: 'Outcomes are verified with trusted cricket data sources and audit trails.'
   }
 ];
 
